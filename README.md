@@ -1,6 +1,6 @@
 -  Hi, I’m @I-Meliora
 -  I’m interested in learning how to code. :)
-- 🌱 I’m currently learning python( Currebtly open to listen advices)
+- 🌱 I’m currently learning python( Currebtly open to advices)
 -  I’m looking to collaborate on  open source projects
 -  How to reach me:
 -  Ig: Yo_Meliora
